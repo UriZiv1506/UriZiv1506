@@ -1,5 +1,5 @@
 # Hello There! :smile:
-### My name is Uri Ziv and I am a 4th-year software engineering student at Braude College of Engineering.
+### My name is Uri Ziv and I am a recent B.Sc. graduate in Software Engineering from Braude College of Engineering.
 ### Technology is my passion, and I'm always eager to learn, grow, and contribute to meaningful projects, take on new challenges and collaborate with others.
 
 # Socials 🌐
