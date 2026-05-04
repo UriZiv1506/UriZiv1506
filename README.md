@@ -10,6 +10,14 @@
 </p>
 
 # My Latest Academic Projects 🧑🏻‍💻
+
+## <a href="https://github.com/Eladkrauz/BodyTrack" target="blank">BodyTrack</a> - A Real-Time Pose Analysis, Posture Estimation and Correction System 🏋️‍♂️</br>
+### - Real-time posture tracking Android app for fitness and exercise sessions.</br>
+### - Uses pose estimation and biomechanical rules to detect incorrect movements.</br>
+### - Provides immediate feedback to help users improve form and avoid injuries.</br>
+### - Includes post-workout analysis for performance review and progress tracking.</br>
+
+
 ## <a href="https://github.com/Eladkrauz/IDEA-OFB-Schnorr-ECDH" target="blank">IDEA in OFB with Schnorr and ECDH</a> - A secure encryption system 🔒</br>
 ### - Implements the IDEA encryption algorithm in Output Feedback (OFB) mode.</br>
 ### - Integrates Schnorr signature for data authentication and integrity.</br>
@@ -26,12 +34,6 @@
 ### - Providing management and control capabilities to officials.</br>
 ### - Providing tools like park control, reports generating, etc.</br>
 ### - Using tools and frameworks like JavaFX, JDBC and OCSF.
-
-## <a href="https://github.com/Eladkrauz/BodyTrack" target="blank">BodyTrack</a> - A Real-Time Pose Analysis, Posture Estimation and Correction System 🏋️‍♂️</br>
-### - Real-time posture tracking Android app for fitness and exercise sessions.</br>
-### - Uses pose estimation and biomechanical rules to detect incorrect movements.</br>
-### - Provides immediate feedback to help users improve form and avoid injuries.</br>
-### - Includes post-workout analysis for performance review and progress tracking.</br>
 
 # Languages 🔡
 ![Java](https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=eclipse&logoColor=ffdd54)
